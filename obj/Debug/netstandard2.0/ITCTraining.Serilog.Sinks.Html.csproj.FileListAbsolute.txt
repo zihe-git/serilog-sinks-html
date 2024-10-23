@@ -1,0 +1,10 @@
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\bin\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.deps.json
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\bin\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.dll
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\bin\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.pdb
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.csproj.AssemblyReference.cache
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.GeneratedMSBuildEditorConfig.editorconfig
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.AssemblyInfoInputs.cache
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.AssemblyInfo.cs
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.csproj.CoreCompileInputs.cache
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.dll
+E:\英业达\CSharp\ITCTraining.Serilog.Sinks.Html\obj\Debug\netstandard2.0\ITCTraining.Serilog.Sinks.Html.pdb

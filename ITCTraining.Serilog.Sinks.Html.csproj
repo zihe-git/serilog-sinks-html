@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>10.0</LangVersion> 
+    <PackageId>Serilog.Sinks.Html</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Clara</Authors>
+    <Description>Serilog sink to write logs to an HTML file.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="4.1.0" />
+  </ItemGroup>
+
+</Project>

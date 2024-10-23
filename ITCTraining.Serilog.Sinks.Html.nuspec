@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ITCTraining.Serilog.Sinks.Html</id>
+    <version>1.0.0</version>
+    <authors>Clara</authors>
+    <owners>Clara Liu</owners>
+    <description>A Serilog sink that writes logs to an HTML file.</description>
+    <tags>Serilog Sink HTML</tags>
+  </metadata>
+</package>
