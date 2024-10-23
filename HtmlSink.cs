@@ -47,7 +47,7 @@ namespace ITCTraining.Serilog.Sinks.Html
             this LoggerConfiguration loggerConfiguration, string filePath)
         {
             return loggerConfiguration
-                .WriteTo.Sink(new HtmlSink(filePath)); // 确保这里引用的是你的 HtmlSink
+                .WriteTo.Sink(new HtmlSink(filePath)); 
         }
     }
 }
